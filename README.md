@@ -10,6 +10,8 @@ I love building scalable, secure, and high-performance backend systems. My journ
 
 🌱 Currently learning and building with **Express.js**, and next up: **NestJS + TypeScript** and **Microservices** to sharpen my backend expertise.
 
+👯‍♀️ I’m looking for help with improving my DevOps and deployment skills using Docker and CI/CD pipelines.
+
 💼 Open to **internships** and **junior backend developer** opportunities to kickstart my career in backend engineering.
 
 ---
@@ -19,17 +21,21 @@ I love building scalable, secure, and high-performance backend systems. My journ
 ### 🧰 Languages & Fundamentals  
 - ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 📚 Data Structures & Algorithms  
 - 🗄️ Databases: ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### ⚙️ Backend & Tools  
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 - 🔗 RESTful API Design  
-- 📡 WebSockets (Real-time Communication)  
+-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 - 💳 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)  
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 - 📬 Job Queues
@@ -60,9 +66,10 @@ A full backend project that enables developers to collaborate and review code in
 ---
 
 ## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=markisaac1812&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=markisaac1812&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markisaac1812&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markisaac1812&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markisaac1812&layout=compact&theme=tokyonight)
 
 ---
 
@@ -73,4 +80,5 @@ A full backend project that enables developers to collaborate and review code in
 
 ---
 
-💡 *“Code. Learn. Improve. Repeat.”*  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
