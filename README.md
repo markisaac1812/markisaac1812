@@ -38,6 +38,8 @@ I love building scalable, secure, and high-performance backend systems. My journ
 - ☁️ ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) *(basic knowledge)*  
 - 🔄 CI/CD *(basic knowledge)*  
 - 🧰 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- - 📑 API Documentation: ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ---
 
