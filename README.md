@@ -17,7 +17,7 @@ I love building scalable, secure, and high-performance backend systems. My journ
 ## 🛠️ Tech Stack & Tools  
 
 ### 🧰 Languages & Fundamentals  
-- Java, Python, JavaScript  
+- Java, Python, JavaScript , C++ 
 - Data Structures & Algorithms  
 - SQL & NoSQL Databases (SQL Server, MongoDB)
 
