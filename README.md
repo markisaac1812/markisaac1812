@@ -32,7 +32,9 @@ I love building scalable, secure, and high-performance backend systems. My journ
 - 📡 WebSockets (Real-time Communication)  
 - 💳 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)  
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-- 📬 Job Queues  
+- 📬 Job Queues
+- - ✅ Data Validation: ![Joi](https://img.shields.io/badge/Joi-4A90E2?logo=javascript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3066BE?logo=typescript&logoColor=white)
+
 - 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 - 🧪 Testing: ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-2F4F4F?logo=javascript&logoColor=white)  
 - ☁️ ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) *(basic knowledge)*  
