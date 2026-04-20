@@ -1,57 +1,66 @@
-# 👋 Hi, I'm Mark Isaac  
-
-🎯 **Backend Developer | Computer Science Major | Aspiring Backend Engineer**
-
----
-
-## 🧠 About Me  
-I'm a passionate **backend developer** diving deep into the world of server-side development.  
-I love building scalable, secure, and high-performance backend systems. My journey started with core CS fundamentals like **Java, Python, C++, Data Structures, and Algorithms**, and now I’m mastering the backend world with **Node.js**.
-
-🌱 Currently learning and building with **Express.js**, and next up: **NestJS + TypeScript** and **Microservices** to sharpen my backend expertise.
-
-👯‍♀️ I’m looking for help with improving my DevOps and deployment skills using Docker and CI/CD pipelines.
-
-💼 Open to **internships** and **junior backend developer** opportunities to kickstart my career in backend engineering.
+# Mark Isaac  
+### Data Engineer | Cloud & Distributed Systems
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## ⚡ About Me
+I build **data pipelines and backend systems that scale**.
 
-### 🧰 Languages & Fundamentals  
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- 📚 Data Structures & Algorithms  
-- 🗄️ Databases: ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+Originally started in backend engineering, then shifted into **data engineering + cloud**, focusing on designing reliable data workflows, transforming raw data into usable insights, and working with distributed systems.
 
-### ⚙️ Backend & Tools  
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-- 🔗 RESTful API Design  
--  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-- 💳 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)  
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-- 📬 Job Queues
-- - ✅ Data Validation: ![Joi](https://img.shields.io/badge/Joi-4A90E2?logo=javascript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3066BE?logo=typescript&logoColor=white)
+💡 I care about:
+- Clean, production-ready data pipelines  
+- Performance & scalability  
+- Real-world system design (not just tutorials)
 
-- 🐳 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-- 🧪 Testing: ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-2F4F4F?logo=javascript&logoColor=white)  
-- ☁️ ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) *(basic knowledge)*  
-- 🔄 CI/CD *(basic knowledge)*  
-- 🧰 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- - 📑 API Documentation: ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
+🚀 Currently working with **streaming systems** and exploring **Apache Flink**.
 
 ---
 
-## 🚀 Featured Project  
+## 🧱 Core Stack (What I Actually Use)
+
+**Languages & Data**
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+
+**Data Engineering**
+- ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+- ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+- ![Kafka](https://img.shields.io/badge/Kafka-000000?logo=apachekafka&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+**Cloud & Infrastructure**
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**Workflow & Tools**
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🧩 What I Build
+
+- Batch & streaming data pipelines  
+- ETL/ELT workflows  
+- Data modeling (analytics-ready schemas)  
+- Scalable backend services connected to data systems  
+
+---
+
+## 🚀 Featured Work
+
+### 🔹 Real-Time Data / Event-Driven Systems
+- Kafka-based pipelines
+- Stream processing concepts (moving toward Flink)
+
+### 🔹 Data Transformation Projects
+- dbt-powered transformations
+- Warehouse-ready datasets
+
+### 🔹 Cloud Infrastructure Projects
+- Infrastructure as Code using Terraform
+- Deploying data services on AWS
 
 ### 🧑‍💻 Real-Time Collaborative Code Review Platform  
 A full backend project that enables developers to collaborate and review code in real time.  
@@ -61,28 +70,36 @@ A full backend project that enables developers to collaborate and review code in
 A full stack project that focuses on backend fundamentals as well as securing my apis from security threat.
 🔗 [View Project on GitHub](https://github.com/markisaac1812/Natours-app)
 
+
 ---
 
-## 🎯 Learning & Goals  
-📚 Next week: Starting **NestJS with TypeScript** to build more robust and production-ready APIs.  
-🎯 Short-term Goal: Land my **first backend internship** and keep growing as a backend engineer.
+## 📈 Current Focus
+
+-![Apache Flink](https://img.shields.io/badge/Flink-E6526F?logo=apacheflink&logoColor=white) Apache Flink (stream processing at scale)  
+- Advanced data pipeline design  
+- Production-grade data architecture  
+
+---
+
+## 🎯 Career Direction
+
+Looking for:
+- **Data Engineering Internships / Junior Roles**
+- Teams working on **data platforms, pipelines, or cloud systems**
 
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=markisaac1812&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=markisaac1812&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=markisaac1812&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=markisaac1812&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markisaac1812&theme=radical&hide_border=true&layout=compact)
 
 ---
 
-## 📫 Contact Me  
+## 📫 Contact
 
-📧 Email: [markisaac695@gmail.com](mailto:markisaac695@gmail.com)  
-💼 LinkedIn: [Mark Isaac](https://www.linkedin.com/in/mark-isaac)
+- Email: markisaac695@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mark-isaac
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> “Good data systems are invisible when they work — and critical when they don’t.”
