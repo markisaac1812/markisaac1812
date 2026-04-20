@@ -90,8 +90,7 @@ Looking for:
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=markisaac1812&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=markisaac1812&theme=radical&hide_border=true&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=markisaac1812&show_icons=true&theme=gotham" alt="markisaac1812" /> <br/>
 
 ---
 
